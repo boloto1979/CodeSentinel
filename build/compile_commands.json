@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/pedro/Documentos/my-projects/CodeSentinel/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/pedro/Documentos/my-projects/CodeSentinel/build/CodeSentinel_autogen/include -I/home/pedro/Documentos/my-projects/CodeSentinel/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -o CMakeFiles/CodeSentinel.dir/CodeSentinel_autogen/mocs_compilation.cpp.o -c /home/pedro/Documentos/my-projects/CodeSentinel/build/CodeSentinel_autogen/mocs_compilation.cpp",
+  "file": "/home/pedro/Documentos/my-projects/CodeSentinel/build/CodeSentinel_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/pedro/Documentos/my-projects/CodeSentinel/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/pedro/Documentos/my-projects/CodeSentinel/build/CodeSentinel_autogen/include -I/home/pedro/Documentos/my-projects/CodeSentinel/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -o CMakeFiles/CodeSentinel.dir/src/main.cpp.o -c /home/pedro/Documentos/my-projects/CodeSentinel/src/main.cpp",
+  "file": "/home/pedro/Documentos/my-projects/CodeSentinel/src/main.cpp"
+},
+{
+  "directory": "/home/pedro/Documentos/my-projects/CodeSentinel/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/pedro/Documentos/my-projects/CodeSentinel/build/CodeSentinel_autogen/include -I/home/pedro/Documentos/my-projects/CodeSentinel/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -o CMakeFiles/CodeSentinel.dir/src/gui/MainWindow.cpp.o -c /home/pedro/Documentos/my-projects/CodeSentinel/src/gui/MainWindow.cpp",
+  "file": "/home/pedro/Documentos/my-projects/CodeSentinel/src/gui/MainWindow.cpp"
+},
+{
+  "directory": "/home/pedro/Documentos/my-projects/CodeSentinel/build",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/pedro/Documentos/my-projects/CodeSentinel/build/CodeSentinel_autogen/include -I/home/pedro/Documentos/my-projects/CodeSentinel/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -g -fPIC -o CMakeFiles/CodeSentinel.dir/src/xss/XSSDetector.cpp.o -c /home/pedro/Documentos/my-projects/CodeSentinel/src/xss/XSSDetector.cpp",
+  "file": "/home/pedro/Documentos/my-projects/CodeSentinel/src/xss/XSSDetector.cpp"
+}
+]

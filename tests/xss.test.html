@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Exemplo de Página Vulnerável a XSS</title>
+</head>
+<body>
+    <h1>Exemplo de Página Vulnerável a XSS</h1>
+    <p>Insira seu nome:</p>
+    <form action="paginaDeResposta.html">
+        <input type="text" name="nomeUsuario" />
+        <input type="submit" value="Enviar" />
+    </form>
+
+    <script>
+        let params = new URLSearchParams(window.location.search);
+        document.write('Olá, ' + params.get('nomeUsuario'));
+    </script>
+</body>
+</html>

@@ -1,0 +1,4 @@
+/home/pedro/Documentos/my-projects/CodeSentinel/build/CMakeFiles/CodeSentinel.dir
+/home/pedro/Documentos/my-projects/CodeSentinel/build/CMakeFiles/edit_cache.dir
+/home/pedro/Documentos/my-projects/CodeSentinel/build/CMakeFiles/rebuild_cache.dir
+/home/pedro/Documentos/my-projects/CodeSentinel/build/CMakeFiles/CodeSentinel_autogen.dir
